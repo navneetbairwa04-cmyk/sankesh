@@ -13,8 +13,7 @@ export default function Education() {
     {
       degree: "12th Standard",
       institution: "RBSE",
-      year: "Completed",
-      score: "45%",
+      year: "2022",
       icon: <BookOpen size={24} className="text-accent" />
     },
     {
